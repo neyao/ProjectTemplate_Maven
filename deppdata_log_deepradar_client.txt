@@ -1,0 +1,6 @@
+2016-01-15 18:03:43,158 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:12) - 000000000000000000000000000
+2016-01-15 18:11:24,072 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:12:46,038 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:15:27,176 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:27:15,997 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:27:53,762 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000

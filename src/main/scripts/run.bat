@@ -1,0 +1,1 @@
+java -jar ../lib/deepradar-core-0.0.1-jar-with-dependencies.jar  -n 5 -t 1,5\n

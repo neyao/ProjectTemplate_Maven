@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<single>true</single>
+<mCacheServer>http://221.122.121.111:5160</mCacheServer>
+<EsServerlist>
+    <EsServer>http://221.122.121.96:5140</EsServer>
+    <EsServer>http://221.122.121.111:5140</EsServer>
+    
+</EsServerlist>
+<radarserver>http://221.122.121.111/deepradar/</radarserver>
+<oracle>
+<url>jdbc:oracle:thin:@221.122.121.112:1521:deepdata</url>
+<user>system</user>
+<password>oracle2014</password>
+</oracle>
+<type>1,4,5</type>
+<history>false</history>

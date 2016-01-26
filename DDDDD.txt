@@ -1,0 +1,13 @@
+2016-01-15 18:43:13,009 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:44:30,710 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:44:30,713 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:16) - debugggggggggggggggggggg
+2016-01-15 18:44:30,713 [main] INFO cn.com.deepdata.deepradar.client.Hello.main(Hello.java:18) - infoooooooooooooooooo
+2016-01-15 18:44:42,961 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:44:42,963 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:16) - debugggggggggggggggggggg
+2016-01-15 18:44:42,963 [main] INFO cn.com.deepdata.deepradar.client.Hello.main(Hello.java:18) - infoooooooooooooooooo
+2016-01-15 18:51:30,088 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:51:30,091 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:16) - debugggggggggggggggggggg
+2016-01-15 18:51:30,091 [main] INFO cn.com.deepdata.deepradar.client.Hello.main(Hello.java:18) - infoooooooooooooooooo
+2016-01-15 18:53:43,136 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:13) - 000000000000000000000000000
+2016-01-15 18:53:43,138 [main]DEBUG cn.com.deepdata.deepradar.client.Hello.main(Hello.java:16) - debugggggggggggggggggggg
+2016-01-15 18:53:43,138 [main] INFO cn.com.deepdata.deepradar.client.Hello.main(Hello.java:18) - infoooooooooooooooooo
